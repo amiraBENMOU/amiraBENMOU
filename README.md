@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amira BENMOUSSA</h1>
-<h3 align="center">A pationate of web devlopment that aime to keep always devlopping fer skills</h3>
+<h3 align="center">A passionate about IT that aims to keep constantly developing her skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirabenmou&label=Profile%20views&color=0e75b6&style=flat" alt="amirabenmou" /> </p>
 
