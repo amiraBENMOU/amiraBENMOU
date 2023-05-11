@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **django and postgresql**
 
-- 📫 How to reach me **amiraexol59@gmail.com**
+- 📫 How to reach me **amira.benmoussa2001@gmail.com**
 
 - ⚡ Fun fact **I don't like chocolate**
 
