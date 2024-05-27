@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirabenmou" alt="amirabenmou" /></a> </p>
 
-- 🔭 I’m currently working on [a Biometric Time Clock] : (https://github.com/amiraBENMOU/socket.io-project](https://github.com/amiraBENMOU/Biometric-Time-Clock)
+- 🔭 I’m currently working on [a personal project with react js and express js ] : ()
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **django and postgresql**
+- 💬 Ask me about **boostrap , postgresql and mongobd **
 
 - 📫 How to reach me **amira.benmoussa2001@gmail.com**
 
