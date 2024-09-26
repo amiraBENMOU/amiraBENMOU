@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirabenmou" alt="amirabenmou" /></a> </p>
 
-- 🔭 I’m currently working on [a personal project with react js and express js ] : ()
+- 🔭 I’m currently working on a personal project with MERN
 
 - 🌱 I’m currently learning **MERN**
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **amira.benmoussa2001@gmail.com**
 
 - ⚡ Fun fact **I don't like chocolate**
+- <img src="https://icons.iconarchive.com/icons/pictogrammers/material/128/github-icon.png" width="128" height="128"> My CV ** https://drive.google.com/file/d/1x6cKsy8DYgFEJuR8-eB1SJ7_3GmVrCGG/view?usp=sharing**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
