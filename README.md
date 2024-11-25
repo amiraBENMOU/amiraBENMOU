@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirabenmou" alt="amirabenmou" /></a> </p>
 
-- 🔭 I’m currently working on a personal project with MERN
+- 🔭I am currently exploring personal projects to deepen my understanding of Laravel and enhancing my proficiency in React and Node.js.
 
 - 🌱 I’m currently learning **MERN**
 
