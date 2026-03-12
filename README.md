@@ -14,7 +14,7 @@
 - 📫 How to reach me **amira.benmoussa2001@gmail.com**
 
 - ⚡ Fun fact **I don't like chocolate**
-- <img src="https://icons.iconarchive.com/icons/pictogrammers/material/128/github-icon.png" width="16" height="16"> My CV **(https://drive.google.com/drive/folders/1__UEvGInPUyPy1Ew2zA6h_rFM5Fdjb1M)**
+- <img src="https://icons.iconarchive.com/icons/pictogrammers/material/128/github-icon.png" width="16" height="16"> My CV **(https://drive.google.com/file/d/1_YaEAXvUsfv-1GmOC8zvUYqq8cI4yFLi/view?usp=sharing)**
 
 
 <h3 align="left">Connect with me:</h3>
